@@ -1,1 +1,2 @@
-# sams-club-bot
+# Sam's Club Bot
+
